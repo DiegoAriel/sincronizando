@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,3 +11,6 @@
     
 </body>
 </html>
+=======
+<p> Hola </p>
+>>>>>>> 6c6bc88b17f18963af29a073b4336444262336b0
